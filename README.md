@@ -11,30 +11,33 @@ Para probar este proyecto téndremos que entrar primero al formulario y digitar 
  ![registrousuarioconsola](https://github.com/noritat/Taller_7/assets/128448216/01b3afde-1341-4a5c-91f5-6db2a7f886df)
 
 Ahora consultamos la base de datos para ver si los datos que registramos quedaron en la tabla.
-#Consulta base de datos:
+
+# Consulta base de datos:
 ![consultabaseregistro](https://github.com/noritat/Taller_7/assets/128448216/c91c514b-3119-42c5-96c7-ebc9a9a1184b)
 
 Ahora probremos la tabla de Categorias.
-#Formulario Registro Categoria:
+
+# Formulario Registro Categoria:
 ![registrocategorias](https://github.com/noritat/Taller_7/assets/128448216/a1b41cf6-9590-4009-b214-701e77ef3283)
 
-#Consola IntelliJ IDEA:
+# Consola IntelliJ IDEA:
 ![registrocategorias}consola](https://github.com/noritat/Taller_7/assets/128448216/d523d546-ec97-4dff-8253-a84f78809200)
 
-#Consulta base de datos tabla Categorias:
+# Consulta base de datos tabla Categorias:
 ![consultabasecategorias](https://github.com/noritat/Taller_7/assets/128448216/b369172e-fc7f-416a-a500-d1f4f3bdd55f)
 
 
 Ahora probremos la tabla de Productos.
-#Formulario Registro Productos:
+
+# Formulario Registro Productos:
 ![registroproductos](https://github.com/noritat/Taller_7/assets/128448216/47fdab2e-053d-4b6c-8d86-cffb2cb3d133)
 
 
-#Consola IntelliJ IDEA:
+# Consola IntelliJ IDEA:
 ![registroproductosconsola](https://github.com/noritat/Taller_7/assets/128448216/45ae712a-85e9-4911-8eb8-b30974fa6d2c)
 
 
-#Consulta base de datos tabla Productos:
+# Consulta base de datos tabla Productos:
 ![consultabaseproductos](https://github.com/noritat/Taller_7/assets/128448216/34fe950e-a0b6-4388-8151-90d8c25193a7)
 
 
