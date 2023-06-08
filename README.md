@@ -1,6 +1,6 @@
-# Proyecto con las cruds completas de las tablas Registro,Categorias y Productos en java
+# Proyecto con la Crud completa de las tablas Registro,Categorias y Productos en java
 
-Este proyecto consiste en realizar la crud(crear, actualizar , consuktar y eliminar) completas de las tablas de Registro, Categorias y Productos, donde tendremos un Servlet( controlador ) tendremos una interfaz y una conexion a base de datos.
+Este proyecto consiste en realizar la Crud(crear, actualizar , consuktar y eliminar) completas de las tablas de Registro, Categorias y Productos, donde tendremos un Servlet( controlador ) tendremos una interfaz y una conexion a base de datos.
 
 Para probar este proyecto téndremos que entrar primero al formulario y digitar los datos. 
 # Formulario Registro Usuario :
