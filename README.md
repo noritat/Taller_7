@@ -1,12 +1,42 @@
-# Proyecto Respository pattern en Java.
+# Proyecto con las cruds completas de las tablas Registro,Categorias y Productos en java
 
-Este proyecto consiste en realizar un Repository Pattern el cual nos proporcionar metodos como la CRUD (Crear, Consultar, Actualizar y Eliminar) ademas que su proposito principal es encapsular las operaciones de almacenamiento y recuperación de datos en un repositorio centralizado trabajando como interfaz:
+Este proyecto consiste en realizar la crud(crear, actualizar , consuktar y eliminar) completas de las tablas de Registro, Categorias y Productos, donde tendremos un Servlet( controlador ) tendremos una interfaz y una conexion a base de datos.
 
-# Respository Pattern :
-![metodo2](https://github.com/noritat/Taller_6_JavaWeb/assets/128448216/81e7f94e-a5b4-4239-805e-90d5dafb0660)
+Para probar este proyecto téndremos que entrar primero al formulario y digitar los datos. 
+# Formulario Registro Usuario :
+![registrousuario](https://github.com/noritat/Taller_7/assets/128448216/7f904b2e-4c84-46a8-8410-1289301edebb)
 
-# Consulta base de datos 
-![Consulta-base de datos2](https://github.com/noritat/Taller_6_JavaWeb/assets/128448216/0824ad91-c246-44ef-9f1f-e6acd7a5ad65)
+ Ahora al presionar el botón enviar revisamos la consola del IntelliJ IDEA para revisar si se realizo el debido registro.
+ #Consola IntelliJ IDEA:
+ ![registrousuarioconsola](https://github.com/noritat/Taller_7/assets/128448216/01b3afde-1341-4a5c-91f5-6db2a7f886df)
+
+Ahora consultamos la base de datos para ver si los datos que registramos quedaron en la tabla.
+#Consulta base de datos:
+![consultabaseregistro](https://github.com/noritat/Taller_7/assets/128448216/c91c514b-3119-42c5-96c7-ebc9a9a1184b)
+
+Ahora probremos la tabla de Categorias.
+#Formulario Registro Categoria:
+![registrocategorias](https://github.com/noritat/Taller_7/assets/128448216/a1b41cf6-9590-4009-b214-701e77ef3283)
+
+#Consola IntelliJ IDEA:
+![registrocategorias}consola](https://github.com/noritat/Taller_7/assets/128448216/d523d546-ec97-4dff-8253-a84f78809200)
+
+#Consulta base de datos tabla Categorias:
+![consultabasecategorias](https://github.com/noritat/Taller_7/assets/128448216/b369172e-fc7f-416a-a500-d1f4f3bdd55f)
+
+
+Ahora probremos la tabla de Productos.
+#Formulario Registro Productos:
+![registroproductos](https://github.com/noritat/Taller_7/assets/128448216/47fdab2e-053d-4b6c-8d86-cffb2cb3d133)
+
+
+#Consola IntelliJ IDEA:
+![registroproductosconsola](https://github.com/noritat/Taller_7/assets/128448216/45ae712a-85e9-4911-8eb8-b30974fa6d2c)
+
+
+#Consulta base de datos tabla Productos:
+![consultabaseproductos](https://github.com/noritat/Taller_7/assets/128448216/34fe950e-a0b6-4388-8151-90d8c25193a7)
+
 
 # Requisitos
 
