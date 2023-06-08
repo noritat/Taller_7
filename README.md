@@ -7,7 +7,7 @@ Para probar este proyecto téndremos que entrar primero al formulario y digitar 
 ![registrousuario](https://github.com/noritat/Taller_7/assets/128448216/7f904b2e-4c84-46a8-8410-1289301edebb)
 
  Ahora al presionar el botón enviar revisamos la consola del IntelliJ IDEA para revisar si se realizo el debido registro.
- #Consola IntelliJ IDEA:
+# onsola IntelliJ IDEA:
  ![registrousuarioconsola](https://github.com/noritat/Taller_7/assets/128448216/01b3afde-1341-4a5c-91f5-6db2a7f886df)
 
 Ahora consultamos la base de datos para ver si los datos que registramos quedaron en la tabla.
