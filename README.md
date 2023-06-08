@@ -50,7 +50,8 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 - Widfly 27.0.1
 - IntelliJ IDEA
 - Tener las depencias configuradas dentro del proyecto 
-![dependencias](https://github.com/noritat/Taller_6_JavaWeb/assets/128448216/7a6cf666-bf37-4d96-80a7-188db646bd58)
+![dependencias](https://github.com/noritat/Taller_7/assets/128448216/7468b866-776b-4a82-99e6-e3ee19624f70)
+
 
 
 # Autor
